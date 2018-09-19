@@ -1,0 +1,13 @@
+{
+    "basic": {
+        "enableConfigHeartbeat": false,
+        "servers": [
+            "http://localhost:8091/"
+        ],
+        "buckets": [
+            {
+                "name": "myBucket"
+            }
+        ]
+    }
+}

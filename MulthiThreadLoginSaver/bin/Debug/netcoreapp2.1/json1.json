@@ -1,0 +1,65 @@
+{
+    "B0": {
+        "id": "B0",
+        "CustomizedName": null,
+        "rebuilding_lv": 1,
+        "dock": {
+            "Level": 1,
+            "ActiveWorkers": [
+                {
+                    "Id": "CH8",
+                    "Body": "LDB7",
+                    "Hair": "LDH20",
+                    "Costume": "LDC23",
+                    "Special": null,
+                    "CostumeEx": null
+                }
+            ],
+            "BuildingId": "B0"
+        },
+        "elevator": {
+            "Level": 1,
+            "ActiveWorkers": [
+                {
+                    "Id": "CH13",
+                    "Body": "LDB0",
+                    "Hair": "LDH0",
+                    "Costume": "LDC9",
+                    "Special": null,
+                    "CostumeEx": null
+                }
+            ],
+            "BuildingId": "B0"
+        },
+        "retailStores": {
+            "B0#0": {
+                "Id": "B0#0",
+                "CustomizedName": null,
+                "Floor": 0,
+                "PendingCash": 0,
+                "CustomizingValues": [],
+                "Level": 1,
+                "ActiveWorkers": [
+                    {
+                        "Id": "CH6",
+                        "Body": "LDB3",
+                        "Hair": "LDH61",
+                        "Costume": "LDC1003",
+                        "Special": null,
+                        "CostumeEx": null
+                    }
+                ],
+                "BuildingId": "B0"
+            }
+        },
+        "storeUnderConstructions": {},
+        "upgrades": {},
+        "managerSkills": {},
+        "lobby": {
+            "CustomizingValues": [],
+            "collector": null,
+            "BuildingId": "B0"
+        },
+        "lastColllectedTime": 1536797651
+    }
+}

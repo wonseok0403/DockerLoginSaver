@@ -1,0 +1,13 @@
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\bin\Debug\netcoreapp2.1\MulthiThreadLoginSaver.deps.json
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\bin\Debug\netcoreapp2.1\MulthiThreadLoginSaver.runtimeconfig.json
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\bin\Debug\netcoreapp2.1\MulthiThreadLoginSaver.runtimeconfig.dev.json
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\bin\Debug\netcoreapp2.1\MulthiThreadLoginSaver.dll
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\obj\Debug\netcoreapp2.1\MulthiThreadLoginSaver.csproj.CoreCompileInputs.cache
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\obj\Debug\netcoreapp2.1\MulthiThreadLoginSaver.AssemblyInfoInputs.cache
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\obj\Debug\netcoreapp2.1\MulthiThreadLoginSaver.AssemblyInfo.cs
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\obj\Debug\netcoreapp2.1\MulthiThreadLoginSaver.csprojAssemblyReference.cache
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\obj\Debug\netcoreapp2.1\MulthiThreadLoginSaver.dll.config
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\bin\Debug\netcoreapp2.1\MulthiThreadLoginSaver.dll.config
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\bin\Debug\netcoreapp2.1\MulthiThreadLoginSaver.pdb
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\obj\Debug\netcoreapp2.1\MulthiThreadLoginSaver.dll
+C:\Users\wonseok786\Source\Repos\MulthiThreadLoginSaver\MulthiThreadLoginSaver\obj\Debug\netcoreapp2.1\MulthiThreadLoginSaver.pdb
